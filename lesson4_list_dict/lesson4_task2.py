@@ -1,5 +1,6 @@
 # Write code that will find and display the names of stores whose prices are in the range between
 # the minimum and maximum price.
+
 my_dict = {
      "cito": 47.999,
      "BB_studio": 42.999,
