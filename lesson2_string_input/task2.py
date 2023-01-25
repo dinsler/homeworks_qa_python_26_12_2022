@@ -32,4 +32,3 @@ if input_age.isdigit():
         print("All tickets are sold!")
 else:
     print("enter number, please")
-
