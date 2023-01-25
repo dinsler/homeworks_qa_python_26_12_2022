@@ -36,7 +36,7 @@ def cashier_job():
 def check_input(user_message: str) -> Union[int, None]:
     """
      check if user_message has only digits
-    :return: user_message as integer
+    :return: user_message as integer.
     """
 
     try:
@@ -52,7 +52,7 @@ def check_input(user_message: str) -> Union[int, None]:
 def find_ending(user_age: int) -> str:
     """
     depending on age we will return appropriate ending
-    :return: ending as string
+    :return: ending as string.
     """
     res = "років"
 
@@ -67,7 +67,7 @@ def find_ending(user_age: int) -> str:
 def get_message(user_age: int, ending: str) -> str:
     """
     depending on user age provide appropriate cashier message
-    :return: message as a string
+    :return: message as a string.
     """
     user_age_as_string = str(user_age)
     symbol = user_age_as_string[0]
