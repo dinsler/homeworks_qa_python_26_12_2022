@@ -1,4 +1,5 @@
 # Task 1. create two variables first=10, second=30, then display the result of mathematical interaction (+, -, *, /, etc.) for these numbers
+
 first = 10
 second = 30
 
