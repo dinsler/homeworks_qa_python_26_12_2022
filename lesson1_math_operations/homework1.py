@@ -23,7 +23,7 @@ print(exponent)
 modulo = first % second
 print(modulo)
 
-# Task 2.Create a variable and one by one write the result of the comparison (<, > , ==, !=) of the numbers from task 1 into it. Display the result of each comparison on the screen.
+# Task lesson2.Create a variable and one by one write the result of the comparison (<, > , ==, !=) of the numbers from task 1 into it. Display the result of each comparison on the screen.
 my_bool = True
 my_bool = first < second
 print(my_bool)
