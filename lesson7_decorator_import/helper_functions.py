@@ -87,7 +87,5 @@ def get_message(user_age: int, ending: str) -> str:
     return res
 
 
-# cashier_job()
-
-
-# cashier_job = time_function_decorator(cashier_job())
+if __name__ == '__main__':
+    cashier_job()
