@@ -3,7 +3,7 @@
 # Task2. Extract all the functions and the decorator into a separate file and import it into the main one.
 
 
-from functions_to_import import cashier_job
+from helper_functions import cashier_job
 
 if __name__ == '__main__':
     cashier_job()
